@@ -1,0 +1,31 @@
+<h1 align="center">The Bannon Report</h1>
+
+<p align="center"><strong>Carrier and broker risk assessment for the trucking industry.</strong></p>
+
+<p align="center">
+  <a href="https://thebannonreport.com">thebannonreport.com</a>
+  &middot;
+  <a href="https://app.thebannonreport.com">app.thebannonreport.com</a>
+</p>
+
+---
+
+Look up a motor carrier by MC# or DOT# and get a clear risk grade based on FMCSA regulatory data, inspection history, and insurance / authority records.
+
+## Risk grades
+
+- **SAFE TO PROCEED**: clean record, good standing
+- **REVIEW BEFORE PROCEEDING**: minor flags worth checking
+- **POTENTIAL RISK**: material concerns, proceed with caution
+- **DO NOT USE**: disqualifying issues found
+
+## Data sources
+
+- FMCSA bulk data and live DOT API
+- MESH Insurance API for verified policy data
+- Inspection history per VIN and per carrier
+
+## Public surfaces
+
+- **[thebannonreport.com](https://thebannonreport.com)**: free public carrier report
+- **[app.thebannonreport.com](https://app.thebannonreport.com)**: full app with monitoring, secure-send, and admin tooling
