@@ -4,8 +4,6 @@
 
 <p align="center">
   <a href="https://thebannonreport.com">thebannonreport.com</a>
-  &middot;
-  <a href="https://app.thebannonreport.com">app.thebannonreport.com</a>
 </p>
 
 ---
@@ -26,5 +24,4 @@ Look up a motor carrier by MC# or DOT# and get a clear risk grade based on FMCSA
 
 ## Public surfaces
 
-- **[thebannonreport.com](https://thebannonreport.com)**: free public carrier report
-- **[app.thebannonreport.com](https://app.thebannonreport.com)**: full app with monitoring, secure-send, and admin tooling
+- **[thebannonreport.com](https://thebannonreport.com)**
