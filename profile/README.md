@@ -22,7 +22,6 @@ Look up a motor carrier by MC# or DOT# and get a clear risk grade based on FMCSA
 ## Data sources
 
 - FMCSA bulk data and live DOT API
-- MESH Insurance API for verified policy data
 - Inspection history per VIN and per carrier
 
 ## Public surfaces
