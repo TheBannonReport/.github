@@ -1,2 +1,3 @@
 # .github
-Default community health files for thebannonreport org
+
+Default github files for thebannonreport org
